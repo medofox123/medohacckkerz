@@ -1,7 +1,7 @@
 <?php
-$admin = 7085518097;
+$admin = 6902503846;
 $token = file_get_contents("token.txt");
-$brokweb = "https://dddoip.serv00.net/vvvvvv";
+$brokweb = "https://glitch.com";
 #==================#
 
 #==================#
